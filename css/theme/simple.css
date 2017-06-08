@@ -74,7 +74,7 @@ body {
 
 .reveal section[data-background="#f05b62"] h2, .reveal section[data-background="#f05b62"] h1 {color: #fafafa;}
 .reveal h1 {margin: 0 0 30px;}
-
+.reveal li {margin: 0.5em 0;}
 
 
 /*********************************************
