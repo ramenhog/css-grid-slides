@@ -191,3 +191,7 @@ body {
 .reveal .cp_embed_wrapper {
   margin: 1rem 0;
 }
+
+.reveal img.smaller-img {
+  max-height: 60vh;
+}
