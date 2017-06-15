@@ -195,3 +195,7 @@ body {
 .reveal img.smaller-img {
   max-height: 60vh;
 }
+
+.reveal p.footnote {
+  font-size: 0.7em;
+}
